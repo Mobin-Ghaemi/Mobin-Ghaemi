@@ -69,6 +69,16 @@
 
 </details>
 
+## Achievements
+<div align="center">
+  <img src="https://github.com/Mobin-Ghaemi.png" width="1" height="1" alt="spacer" />
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" title="Pull Shark" width="96" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" width="96" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" title="Starstruck" width="96" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" title="Galaxy Brain" width="96" />
+</div>
+
 ## Let’s build something
 <a href="https://github.com/Mobin-Ghaemi"><img alt="GitHub" src="https://img.shields.io/badge/Contact%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
